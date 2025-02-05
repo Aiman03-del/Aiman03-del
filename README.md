@@ -1,7 +1,7 @@
-![Banner](https://raw.githubusercontent.com/Aiman03-del/assets/main/assets/Banner.png)
+![Banner](https://raw.githubusercontent.com/Aiman03-del/assets/main/assests/Banner.png)
 
 
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Aiman Uddin
 🚀 Full Stack Developer | MERN | Open Source Contributor  
 
 ## 🧑‍💻 About Me  
