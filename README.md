@@ -22,7 +22,8 @@
 
 ###
 
-<h1 align="center">Hey there 👋 I'm Aiman</h1>
+<h1 align="center">Hey there 👋
+<br/> I'm Aiman</h1>
 
 <p align="center">🚀 Junior Full Stack Developer | MERN</p>
 
