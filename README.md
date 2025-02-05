@@ -28,28 +28,27 @@
 
 ###
 
-<p align="center">🚀 JR Full Stack Developer | MERN</p>
+<p align="center">🚀 Junior Full Stack Developer | MERN Stack Enthusiast</p>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
 <p align="left">
-👨‍💻 Passionate about developing high-quality web applications. <br>
-🌱 Currently exploring <b>Next.js & TypeScript</b>. <br>
-🔭 Working on a <b>Parcel Ease Website</b>. <br>
-💬 Ask me about <b>React, Node.js, MongoDB</b>. <br>
-📫 Contact me: <b>ausiaam83@gmail.com</b>
+👨‍💻 Passionate about creating dynamic and user-friendly web applications.<br>
+🌱 Currently exploring <b>Next.js & TypeScript</b> to elevate frontend experiences.<br>
+🔭 Working on a <b>Parcel Ease Website</b>, focused on enhancing logistics solutions.<br>
+💬 Ask me about <b>React, Node.js, MongoDB</b>.<br>
+📫 Contact me: <b>ausiaam83@gmail.com</b><br>
+🎯 Open to collaboration on meaningful and challenging projects.
 </p>
 
 ###
 
 ## 🚀 Skills  
-
 <div align="center">
-  
   <table>
     <tr>
       <td><b>Frontend</b></td>
@@ -76,18 +75,21 @@
       </td>
     </tr>
   </table>
-  
 </div>
+
+###
 
 ## 🌍 Connect with Me  
 <div align="center">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/au-siaam-721011204">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/Aiman03-del">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
 </div>
+
+###
 
 ## 📊 GitHub Stats  
 <div align="center">
@@ -95,3 +97,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiman03-del&layout=compact" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aiman03-del&theme=radical" />
 </div>
+
+###
+
+**🎯 Future Goals:**
+- Expand expertise in DevOps.
+- Contribute more actively to open-source projects.
+- Launch personal portfolio website.
+
+###
+
+**✨ Thank you for visiting my profile! Let's connect and create something awesome! ✨**
