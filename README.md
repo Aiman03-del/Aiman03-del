@@ -86,5 +86,5 @@
 
 ## 📊 GitHub Stats
 ![Aiman03-del's Stats](https://github-readme-stats.vercel.app/api?username=Aiman03-del&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-![Aiman03-del's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aiman03-del&theme=dracula&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Aiman03-del&theme=dracula&hide_border=true)
 ![Aiman03-del's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiman03-del&theme=dracula&show_icons=true&hide_border=true&layout=compact)
