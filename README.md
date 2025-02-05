@@ -30,7 +30,7 @@
 
 ### 👩‍💻 About Me
 
-- 👨‍💻 Passionate about building high-quality web applications.  
+- 👨‍💻 Passionate about building high-quality websites.  
 - 🌱 Currently exploring **Next.js & TypeScript**.  
 - 🔭 Working on a **Parcel Ease Website**.  
 - 💬 Ask me about **React, Node.js, MongoDB**.  
