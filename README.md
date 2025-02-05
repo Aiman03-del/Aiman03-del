@@ -85,9 +85,6 @@
 </div>
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aiman03-del&show_icons=true&theme=radical" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiman03-del&layout=compact&theme=radical" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aiman03-del&theme=radical" />
-</div>
+![Aiman03-del's Stats](https://github-readme-stats.vercel.app/api?username=Aiman03-del&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![Aiman03-del's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aiman03-del&theme=dracula&hide_border=true)
+![Aiman03-del's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiman03-del&theme=dracula&show_icons=true&hide_border=true&layout=compact)
