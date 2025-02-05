@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/Aiman03-del/assets/main/assests/Banner.png)
+![Banner](https://raw.githubusercontent.com/Aiman03-del/assets/refs/heads/main/assets/Banner.png)
 
 
 # 👋 Hi, I'm Aiman Uddin
