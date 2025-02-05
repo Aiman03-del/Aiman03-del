@@ -70,7 +70,7 @@
     <tr>
       <td><b>Tools & DevOps</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
+        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify" />
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
         <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel" />
       </td>
