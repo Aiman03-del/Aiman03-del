@@ -72,6 +72,13 @@ I'm Aiman</h1>
 
 ---
 
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aiman03-del&theme=dracula&hide_border=true" />
+</div>
+
+---
+
 ## 🌍 Connect with Me
 
 <div align="center">
@@ -91,11 +98,4 @@ I'm Aiman</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=Aiman03-del&theme=dracula&show_icons=true&hide_border=true&count_private=true" /><br>
   <img src="https://streak-stats.demolab.com/?user=Aiman03-del&theme=dracula&hide_border=true" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiman03-del&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
-</div>
-
----
-
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aiman03-del&theme=dracula&hide_border=true" />
 </div>
